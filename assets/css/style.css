@@ -1,0 +1,10 @@
+.inicial{
+    display: grid;
+    align-items: center;
+    flex-direction: column;
+}
+
+img{
+    padding: 5%;
+    width: 30%;
+}
